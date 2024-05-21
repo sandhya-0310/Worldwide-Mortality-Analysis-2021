@@ -1,4 +1,4 @@
-# Worldwide-Mortality-Analysis-2021
+# Worldwide Mortality Analysis 2021
 
 ABSTRACT:   
 The effects of COVID-19 and how people around the world have fared are the topic of the World Happiness Report 2021. Our goal was twofold: first, to focus on COVID-19's consequences on the structure and quality of people's lives by determining the Mortality Rate, and second, to explain and analyse how Countries around the world responded with the epidemic. We try to explain why certain countries have lesser Mortality Rate than others in particular by visualization.
